@@ -8,9 +8,3 @@ Feature: user journey to visit article page
     When I open the first record from result
     Then I see the details of that article
 
-    # Examples:
-      # |searchTerm|
-      # |Asset|
-      # |Nature|
-      # |Wildlife| 
-
